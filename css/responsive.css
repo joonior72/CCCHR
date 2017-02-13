@@ -1,0 +1,17 @@
+@media screen and (min-width: 480px){
+	nav li{
+		font-size: 1em;
+	}
+}
+
+@media (min-width: 769px){
+	#wrapper{
+		min-height: calc(100vh - 22px);
+	}
+}
+
+@media (min-width: 100px){
+	#wrapper{
+		min-height: calc(100vh - 22px);
+	}
+}
