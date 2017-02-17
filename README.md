@@ -5,7 +5,7 @@ This is a website that my brother and I built from the ground up. We have experi
 
 We have had a few versions of this project so far, but seeing as how this is my first experience with version control and git/github in particular, we will label this inital upload as version 1.0.
 
----Version 1.0---
+**Version 1.0**
 -Basic site is constructed with recognizable header, navigation, banner, content, and footer sections.
 -Site is constructed in a responsive manner; to make the experience enjoyable for desktop, mobile, and tablet users.
 -Footer constructed to be in a 'sticky' footer style in order to expand the body wrapper to the bottom of the page.
